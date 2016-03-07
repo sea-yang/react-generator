@@ -18,7 +18,7 @@
     -- store    // 后端 store，提供初始 html 和 state，需保证返回数据结构与前端一致
     -- views    // 模板文件
 
-##命令：
+##操作命令：
   启动：
     dev环境：
       npm run start
